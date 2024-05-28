@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+markets_code,varchar(45),NO,PRI,NULL,
+markets_name,varchar(45),YES,,NULL,
+zone,varchar(45),YES,,NULL,
